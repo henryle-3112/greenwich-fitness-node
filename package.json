@@ -1,0 +1,19 @@
+{
+  "name": "greenwich-fitness-node",
+  "version": "1.0.0",
+  "description": "greenwich-fitness-node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "greenwich-fitness-node"
+  ],
+  "author": "Henry",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.2",
+    "socket.io": "^2.2.0"
+  }
+}
